@@ -1,0 +1,125 @@
+@media (max-width:768px){
+.top-line{
+display:none;
+}
+
+}
+
+@media (min-width:421px) and (max-width:650px){
+.slider{
+padding:100px 5px;
+}
+}
+
+@media (min-width:576px) and (max-width:76px){
+.whatWeSection .card-title{
+font-size: 18px;
+}
+}
+
+@media (max-width:575px){
+.whatWeSection .container{
+padding: 0px 70px;
+}
+}
+
+@media (min-width:576px) and (max-width:767px){
+.FeaturedProjects button{
+font-size: 11px;
+}
+}
+
+@media (min-width:768px) and (max-width:991px){
+.TestimonialMax .row div:nth-of-type(1){
+text-align: center;
+}
+.TestimonialMax h5{
+text-align: center;
+}
+}
+
+@media (max-width:767px){
+.TestimonialMax .row div:nth-of-type(1){
+text-align: center;
+}
+}
+
+@media (max-width:700px){
+.footerNav , .footerContact{
+display:block!important;
+}
+
+.footer{
+padding-left:30px;
+}
+.footerNav p{
+margin-left: 0px!important;
+}
+.phone1 , .phone2 , .email{
+margin-bottom: 5px;
+}
+
+.footerCopy{
+text-align: left!important;
+}
+hr{
+margin: 0;
+}
+}
+
+@media (min-width:769px){
+.mainNavBar .container{
+padding-left: 0px!important;
+}
+}
+
+
+
+/* @media (min-width:320px) and (max-width:420px){
+.slider h1{
+font-size: 31px;
+}
+.slider h3{
+font-size: 25px;
+}
+.slider{
+padding: 100px 9px;
+}
+} */
+
+/* @media (min-width:536px) and (max-width:583px){
+.slider h1{
+font-size:38px;
+}
+.slider h3{
+font-size: 30px;
+}
+}
+@media (min-width:486px) and (max-width:535px){
+.slider h1{
+font-size:40px;
+}
+}
+@media (min-width: 521px) and (max-width: 586px){ 
+.slider h1 {
+font-size: 36px;
+}
+}
+
+@media (min-width:486px) and (max-width:520px){
+.slider h1{
+font-size:35px;
+}
+.slider h3{
+font-size: 22px;
+}
+}
+
+@media (min-width:421px) and (max-width:485px){
+.slider h1{
+font-size:30px;
+}
+.slider h3{
+font-size: 22px;
+}
+} */
